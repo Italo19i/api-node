@@ -1,0 +1,24 @@
+{
+  "name": "api-node",
+  "version": "0.0.1",
+  "description": "An api only node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Italo19i/api-node.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "backend"
+  ],
+  "author": "Italo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Italo19i/api-node/issues"
+  },
+  "homepage": "https://github.com/Italo19i/api-node#readme"
+}
